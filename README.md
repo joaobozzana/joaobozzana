@@ -41,11 +41,9 @@
   </li>
 </ul>
 
-
   ##
  
 <div> 
   <a href = "mailto:joaoviicttor9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/joão-victor-bozzana-da-fonseca-0449b3189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-bozzana-da-fonseca-0449b3189/" target="_blank">  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
